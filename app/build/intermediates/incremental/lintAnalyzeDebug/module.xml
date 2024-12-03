@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app"
+    name=":app"
+    type="APP"
+    maven="Vegtummy:app:"
+    gradle="7.1.2"
+    buildFolder="build"
+    bootClassPath="D:\misc\Sdk\platforms\android-31\android.jar;D:\misc\Sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>

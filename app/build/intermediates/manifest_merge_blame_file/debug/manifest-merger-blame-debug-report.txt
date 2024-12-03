@@ -1,0 +1,137 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tiodev.vegtummy"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:8:5-42:19
+15        android:allowBackup="false"
+15-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:9:9-36
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.7.0] C:\Users\aarav\.gradle\caches\transforms-3\02483169c4c9e0ddffa88758188ac6f1\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:10:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:11:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:13:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.RecyclerView" >
+24-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:14:9-50
+25        <activity
+25-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:15:9-23:20
+26            android:name="com.tiodev.vegtummy.SplashActivity"
+26-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:16:13-62
+27            android:exported="true" >
+27-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:17:13-36
+28            <intent-filter>
+28-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:18:9-22:25
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:19:13-65
+29-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:19:21-62
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:21:13-73
+31-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:21:23-70
+32            </intent-filter>
+33        </activity>
+34        <activity
+34-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:24:9-26:40
+35            android:name="com.tiodev.vegtummy.SearchActivity"
+35-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:25:13-62
+36            android:exported="false" />
+36-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:26:13-37
+37        <activity
+37-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:27:9-31:20
+38            android:name="com.tiodev.vegtummy.HomeActivity"
+38-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:28:13-60
+39            android:exported="true" >
+39-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:29:13-36
+40        </activity>
+41        <activity
+41-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:32:9-34:40
+42            android:name="com.tiodev.vegtummy.RecipeActivity"
+42-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:33:13-62
+43            android:exported="false" />
+43-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:34:13-37
+44        <activity
+44-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:35:9-37:39
+45            android:name="com.tiodev.vegtummy.MainActivity"
+45-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:36:13-60
+46            android:exported="true" />
+46-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:37:13-36
+47
+48        <meta-data
+48-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:39:9-41:57
+49            android:name="preloaded_fonts"
+49-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:40:13-43
+50            android:resource="@array/preloaded_fonts" />
+50-->C:\Users\aarav\Desktop\Amrita\S7\Mobile App Dev\recipe-app-android\app\src\main\AndroidManifest.xml:41:13-54
+51
+52        <activity
+52-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\aarav\.gradle\caches\transforms-3\53207dac8a8df2118dd13aece775a512\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+53            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+53-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\aarav\.gradle\caches\transforms-3\53207dac8a8df2118dd13aece775a512\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+54            android:exported="false"
+54-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\aarav\.gradle\caches\transforms-3\53207dac8a8df2118dd13aece775a512\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+55            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+55-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\aarav\.gradle\caches\transforms-3\53207dac8a8df2118dd13aece775a512\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+56
+57        <meta-data
+57-->[com.google.android.gms:play-services-basement:18.0.1] C:\Users\aarav\.gradle\caches\transforms-3\05806254b4ea14a0e71ef2a448912965\transformed\play-services-basement-18.0.1\AndroidManifest.xml:21:9-23:69
+58            android:name="com.google.android.gms.version"
+58-->[com.google.android.gms:play-services-basement:18.0.1] C:\Users\aarav\.gradle\caches\transforms-3\05806254b4ea14a0e71ef2a448912965\transformed\play-services-basement-18.0.1\AndroidManifest.xml:22:13-58
+59            android:value="@integer/google_play_services_version" />
+59-->[com.google.android.gms:play-services-basement:18.0.1] C:\Users\aarav\.gradle\caches\transforms-3\05806254b4ea14a0e71ef2a448912965\transformed\play-services-basement-18.0.1\AndroidManifest.xml:23:13-66
+60
+61        <service
+61-->[androidx.room:room-runtime:2.4.3] C:\Users\aarav\.gradle\caches\transforms-3\128d62ca34cba5dc8fdf679a310dab23\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
+62            android:name="androidx.room.MultiInstanceInvalidationService"
+62-->[androidx.room:room-runtime:2.4.3] C:\Users\aarav\.gradle\caches\transforms-3\128d62ca34cba5dc8fdf679a310dab23\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74
+63            android:directBootAware="true"
+63-->[androidx.room:room-runtime:2.4.3] C:\Users\aarav\.gradle\caches\transforms-3\128d62ca34cba5dc8fdf679a310dab23\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
+64            android:exported="false" />
+64-->[androidx.room:room-runtime:2.4.3] C:\Users\aarav\.gradle\caches\transforms-3\128d62ca34cba5dc8fdf679a310dab23\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
+65
+66        <provider
+66-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aarav\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+67            android:name="androidx.startup.InitializationProvider"
+67-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aarav\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+68            android:authorities="com.tiodev.vegtummy.androidx-startup"
+68-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aarav\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+69            android:exported="false" >
+69-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aarav\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+70            <meta-data
+70-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aarav\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+71                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+71-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aarav\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+72                android:value="androidx.startup" />
+72-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aarav\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+73            <meta-data
+73-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\aarav\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+74                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+74-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\aarav\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+75                android:value="androidx.startup" />
+75-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\aarav\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+76        </provider>
+77    </application>
+78
+79</manifest>

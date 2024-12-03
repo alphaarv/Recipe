@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_full_size_ic.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\full_size_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_shape.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\card_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_info_ic.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\info_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_clock_ic_white.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\clock_ic_white.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_developer_ic.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\developer_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_ing.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\btn_ing.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_searchview.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\searchview.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_recipe.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\layout\\activity_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\raw_loading_anim.json.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\raw\\loading_anim.json"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_category_dessert.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\category_dessert.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_category_card_bc.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\category_card_bc.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_medium.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\font\\poppins_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\xml_activity_recipe_scene.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\xml\\activity_recipe_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_scroll_up.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\scroll_up.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_category_main.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\category_main.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_text_overlay.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\text_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_clock_icon.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\clock_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_menu_home.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\menu_home.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_drinks.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\drinks.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\font_poppins.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\font\\poppins.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_in.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_assest1.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\home_assest1.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_catergory_drinks.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\catergory_drinks.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_btm_overlay.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\image_btm_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_back_icon.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_out.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_light.ttf.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\font\\poppins_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_pizza_sample.jpg.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\pizza_sample.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_search_ic.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\search_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\layout_list_design.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\layout\\list_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottom_sheet_bg.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\bottom_sheet_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\layout_popular_list.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\layout\\popular_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_animation.gif.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\logo_animation.gif"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\layout_search_list.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\layout\\search_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_semi.ttf.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\font\\poppins_semi.ttf"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\font\\poppins_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_category_salad.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\category_salad.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_recipe.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\card_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\layout_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\layout\\bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_back_btn.xml.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\card_back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_btn.png.flat",
+        "source": "C:\\Users\\aarav\\Desktop\\Amrita\\S7\\Mobile App Dev\\recipe-app-android\\app\\src\\main\\res\\drawable\\card_btn.png"
+    }
+]

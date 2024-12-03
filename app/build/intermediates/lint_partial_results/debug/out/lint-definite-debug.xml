@@ -1,0 +1,2157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.1.2" type="incidents">
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Empty `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="19"
+            column="9"
+            startOffset="804"
+            endLine="19"
+            endColumn="42"
+            endOffset="837"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;TODO&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="19"
+            column="9"
+            startOffset="804"
+            endLine="19"
+            endColumn="42"
+            endOffset="837"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Empty `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="31"
+            column="9"
+            startOffset="1242"
+            endLine="31"
+            endColumn="42"
+            endOffset="1275"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;TODO&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="31"
+            column="9"
+            startOffset="1242"
+            endLine="31"
+            endColumn="42"
+            endOffset="1275"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Hello&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="40"
+            column="9"
+            startOffset="1566"
+            endLine="40"
+            endColumn="29"
+            endOffset="1586"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;foodie!&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="52"
+            column="9"
+            startOffset="2027"
+            endLine="52"
+            endColumn="31"
+            endOffset="2049"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Which indian food would you like to cook?&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="64"
+            column="9"
+            startOffset="2484"
+            endLine="64"
+            endColumn="65"
+            endOffset="2540"/>
+    </incident>
+
+    <incident
+        id="TextFields"
+        severity="warning"
+        message="This text field does not specify an `inputType`">
+        <fix-attribute
+            description="Set inputType"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="inputType"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="70"
+            column="6"
+            startOffset="2747"
+            endLine="70"
+            endColumn="14"
+            endOffset="2755"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Search recipe&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="80"
+            column="9"
+            startOffset="3145"
+            endLine="80"
+            endColumn="37"
+            endOffset="3173"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="91"
+            column="6"
+            startOffset="3536"
+            endLine="91"
+            endColumn="15"
+            endOffset="3545"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Categories&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="107"
+            column="9"
+            startOffset="4136"
+            endLine="107"
+            endColumn="34"
+            endOffset="4161"/>
+    </incident>
+
+    <incident
+        id="ScrollViewSize"
+        severity="warning"
+        message="This RelativeLayout should use `android:layout_width=&quot;wrap_content&quot;`">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="124"
+            column="13"
+            startOffset="4729"
+            endLine="124"
+            endColumn="48"
+            endOffset="4764"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="129"
+            column="14"
+            startOffset="4906"
+            endLine="129"
+            endColumn="23"
+            endOffset="4915"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Salad&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="152"
+            column="17"
+            startOffset="5995"
+            endLine="152"
+            endColumn="37"
+            endOffset="6015"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="156"
+            column="14"
+            startOffset="6126"
+            endLine="156"
+            endColumn="23"
+            endOffset="6135"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Main&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="179"
+            column="17"
+            startOffset="7213"
+            endLine="179"
+            endColumn="36"
+            endOffset="7232"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="184"
+            column="14"
+            startOffset="7345"
+            endLine="184"
+            endColumn="23"
+            endOffset="7354"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Drinks&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="209"
+            column="17"
+            startOffset="8532"
+            endLine="209"
+            endColumn="38"
+            endOffset="8553"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="214"
+            column="14"
+            startOffset="8666"
+            endLine="214"
+            endColumn="23"
+            endOffset="8675"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Dessert&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="239"
+            column="17"
+            startOffset="9862"
+            endLine="239"
+            endColumn="39"
+            endOffset="9884"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Popular recipe&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_home.xml"
+            line="254"
+            column="9"
+            startOffset="10281"
+            endLine="254"
+            endColumn="38"
+            endOffset="10310"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_main.xml"
+            line="11"
+            column="6"
+            startOffset="466"
+            endLine="11"
+            endColumn="15"
+            endOffset="475"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Salad&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_main.xml"
+            line="31"
+            column="9"
+            startOffset="1241"
+            endLine="31"
+            endColumn="29"
+            endOffset="1261"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="10"
+            column="6"
+            startOffset="447"
+            endLine="10"
+            endColumn="15"
+            endOffset="456"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="22"
+            column="6"
+            startOffset="919"
+            endLine="22"
+            endColumn="15"
+            endOffset="928"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="44"
+            column="10"
+            startOffset="1797"
+            endLine="44"
+            endColumn="19"
+            endOffset="1806"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;30 mins&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="65"
+            column="13"
+            startOffset="2607"
+            endLine="65"
+            endColumn="35"
+            endOffset="2629"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;I am a sample text &quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="81"
+            column="13"
+            startOffset="3258"
+            endLine="81"
+            endColumn="47"
+            endOffset="3292"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Ingredients&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="101"
+            column="13"
+            startOffset="4076"
+            endLine="101"
+            endColumn="39"
+            endOffset="4102"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Steps&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="116"
+            column="13"
+            startOffset="4680"
+            endLine="116"
+            endColumn="33"
+            endOffset="4700"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Test txt is here&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="167"
+            column="17"
+            startOffset="6674"
+            endLine="167"
+            endColumn="48"
+            endOffset="6705"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="176"
+            column="10"
+            startOffset="6973"
+            endLine="176"
+            endColumn="19"
+            endOffset="6982"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="187"
+            column="6"
+            startOffset="7307"
+            endLine="187"
+            endColumn="15"
+            endOffset="7316"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="202"
+            column="6"
+            startOffset="7882"
+            endLine="202"
+            endColumn="15"
+            endOffset="7891"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="217"
+            column="6"
+            startOffset="8434"
+            endLine="217"
+            endColumn="15"
+            endOffset="8443"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Search recipe&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_search.xml"
+            line="20"
+            column="9"
+            startOffset="817"
+            endLine="20"
+            endColumn="37"
+            endOffset="845"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_search.xml"
+            line="29"
+            column="6"
+            startOffset="1165"
+            endLine="29"
+            endColumn="15"
+            endOffset="1174"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_splash.xml"
+            line="20"
+            column="6"
+            startOffset="838"
+            endLine="20"
+            endColumn="15"
+            endOffset="847"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Made in 🇮🇳&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_splash.xml"
+            line="35"
+            column="9"
+            startOffset="1434"
+            endLine="35"
+            endColumn="36"
+            endOffset="1461"/>
+    </incident>
+
+    <incident
+        id="UseCompoundDrawables"
+        severity="warning"
+        message="This tag and its children can be replaced by one `&lt;TextView/>` and a compound drawable">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/bottom_sheet.xml"
+            line="11"
+            column="6"
+            startOffset="468"
+            endLine="11"
+            endColumn="18"
+            endOffset="480"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/bottom_sheet.xml"
+            line="23"
+            column="10"
+            startOffset="964"
+            endLine="23"
+            endColumn="19"
+            endOffset="973"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Privacy policy&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/bottom_sheet.xml"
+            line="34"
+            column="13"
+            startOffset="1379"
+            endLine="34"
+            endColumn="42"
+            endOffset="1408"/>
+    </incident>
+
+    <incident
+        id="UseCompoundDrawables"
+        severity="warning"
+        message="This tag and its children can be replaced by one `&lt;TextView/>` and a compound drawable">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/bottom_sheet.xml"
+            line="40"
+            column="6"
+            startOffset="1482"
+            endLine="40"
+            endColumn="18"
+            endOffset="1494"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/bottom_sheet.xml"
+            line="53"
+            column="10"
+            startOffset="2025"
+            endLine="53"
+            endColumn="19"
+            endOffset="2034"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;About developer&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/bottom_sheet.xml"
+            line="64"
+            column="13"
+            startOffset="2445"
+            endLine="64"
+            endColumn="43"
+            endOffset="2475"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/list_design.xml"
+            line="25"
+            column="10"
+            startOffset="1024"
+            endLine="25"
+            endColumn="19"
+            endOffset="1033"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Here is sample text&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/list_design.xml"
+            line="56"
+            column="9"
+            startOffset="2386"
+            endLine="56"
+            endColumn="43"
+            endOffset="2420"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/list_design.xml"
+            line="66"
+            column="6"
+            startOffset="2786"
+            endLine="66"
+            endColumn="15"
+            endOffset="2795"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;30 mins&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/list_design.xml"
+            line="83"
+            column="9"
+            startOffset="3448"
+            endLine="83"
+            endColumn="31"
+            endOffset="3470"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/list_design.xml"
+            line="88"
+            column="6"
+            startOffset="3670"
+            endLine="88"
+            endColumn="15"
+            endOffset="3679"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/popular_list.xml"
+            line="16"
+            column="10"
+            startOffset="657"
+            endLine="16"
+            endColumn="19"
+            endOffset="666"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/popular_list.xml"
+            line="25"
+            column="10"
+            startOffset="1004"
+            endLine="25"
+            endColumn="19"
+            endOffset="1013"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Here is sample&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/popular_list.xml"
+            line="36"
+            column="13"
+            startOffset="1433"
+            endLine="36"
+            endColumn="42"
+            endOffset="1462"/>
+    </incident>
+
+    <incident
+        id="SpUsage"
+        severity="warning"
+        message="Should use &quot;`sp`&quot; instead of &quot;`dp`&quot; for text sizes">
+        <fix-replace
+            description="Replace with sp"
+            oldPattern=".*(di?p)"
+            replacement="sp"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/popular_list.xml"
+            line="38"
+            column="13"
+            startOffset="1521"
+            endLine="38"
+            endColumn="36"
+            endOffset="1544"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;30 mins&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/popular_list.xml"
+            line="52"
+            column="13"
+            startOffset="2078"
+            endLine="52"
+            endColumn="35"
+            endOffset="2100"/>
+    </incident>
+
+    <incident
+        id="ContentDescription"
+        severity="warning"
+        message="Missing `contentDescription` attribute on image">
+        <fix-attribute
+            description="Set contentDescription"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="contentDescription"
+            value="TODO"
+            dot="4"
+            mark="0"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/search_list.xml"
+            line="20"
+            column="10"
+            startOffset="812"
+            endLine="20"
+            endColumn="19"
+            endOffset="821"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Demo text is here&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/search_list.xml"
+            line="38"
+            column="9"
+            startOffset="1413"
+            endLine="38"
+            endColumn="41"
+            endOffset="1445"/>
+    </incident>
+
+    <incident
+        id="SpUsage"
+        severity="warning"
+        message="Should use &quot;`sp`&quot; instead of &quot;`dp`&quot; for text sizes">
+        <fix-replace
+            description="Replace with sp"
+            oldPattern=".*(di?p)"
+            replacement="sp"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/search_list.xml"
+            line="40"
+            column="9"
+            startOffset="1497"
+            endLine="40"
+            endColumn="32"
+            endOffset="1520"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA!&quot; instead of &quot;DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA!&quot;"
+            oldString="DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1"
+            replacement="DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="57"
+            startOffset="396"
+            endLine="9"
+            endColumn="57"
+            endOffset="433"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;pYTEWMBQGA!&quot; instead of &quot;pYTEWMBQGA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;pYTEWMBQGA!&quot;"
+            oldString="pYTEWMBQGA1"
+            replacement="pYTEWMBQGA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="112"
+            startOffset="451"
+            endLine="9"
+            endColumn="112"
+            endOffset="461"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;GA!&quot; instead of &quot;GA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;GA!&quot;"
+            oldString="GA1"
+            replacement="GA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="152"
+            startOffset="491"
+            endLine="9"
+            endColumn="152"
+            endOffset="493"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;GA!&quot; instead of &quot;GA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;GA!&quot;"
+            oldString="GA1"
+            replacement="GA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="176"
+            startOffset="515"
+            endLine="9"
+            endColumn="176"
+            endOffset="517"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;GA!&quot; instead of &quot;GA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;GA!&quot;"
+            oldString="GA1"
+            replacement="GA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="200"
+            startOffset="539"
+            endLine="9"
+            endColumn="200"
+            endOffset="541"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA!&quot; instead of &quot;NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA!&quot;"
+            oldString="NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1"
+            replacement="NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="305"
+            startOffset="644"
+            endLine="9"
+            endColumn="305"
+            endOffset="677"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;pYTEWMBQGA!&quot; instead of &quot;pYTEWMBQGA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;pYTEWMBQGA!&quot;"
+            oldString="pYTEWMBQGA1"
+            replacement="pYTEWMBQGA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="356"
+            startOffset="695"
+            endLine="9"
+            endColumn="356"
+            endOffset="705"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;GA!&quot; instead of &quot;GA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;GA!&quot;"
+            oldString="GA1"
+            replacement="GA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="396"
+            startOffset="735"
+            endLine="9"
+            endColumn="396"
+            endOffset="737"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;GA!&quot; instead of &quot;GA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;GA!&quot;"
+            oldString="GA1"
+            replacement="GA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="420"
+            startOffset="759"
+            endLine="9"
+            endColumn="420"
+            endOffset="761"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;GA!&quot; instead of &quot;GA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;GA!&quot;"
+            oldString="GA1"
+            replacement="GA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="444"
+            startOffset="783"
+            endLine="9"
+            endColumn="444"
+            endOffset="785"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;hZeTfHwqNvacKhp!&quot; instead of &quot;hZeTfHwqNvacKhp1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;hZeTfHwqNvacKhp!&quot;"
+            oldString="hZeTfHwqNvacKhp1"
+            replacement="hZeTfHwqNvacKhp!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="684"
+            startOffset="1023"
+            endLine="9"
+            endColumn="684"
+            endOffset="1038"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;xT!&quot; instead of &quot;xT1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;xT!&quot;"
+            oldString="xT1"
+            replacement="xT!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="803"
+            startOffset="1142"
+            endLine="9"
+            endColumn="803"
+            endOffset="1144"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA!&quot; instead of &quot;CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA!&quot;"
+            oldString="CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1"
+            replacement="CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="995"
+            startOffset="1334"
+            endLine="9"
+            endColumn="995"
+            endOffset="1373"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;pYTEWMBQGA!&quot; instead of &quot;pYTEWMBQGA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;pYTEWMBQGA!&quot;"
+            oldString="pYTEWMBQGA1"
+            replacement="pYTEWMBQGA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="1052"
+            startOffset="1391"
+            endLine="9"
+            endColumn="1052"
+            endOffset="1401"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;GA!&quot; instead of &quot;GA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;GA!&quot;"
+            oldString="GA1"
+            replacement="GA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="1092"
+            startOffset="1431"
+            endLine="9"
+            endColumn="1092"
+            endOffset="1433"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;GA!&quot; instead of &quot;GA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;GA!&quot;"
+            oldString="GA1"
+            replacement="GA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="1116"
+            startOffset="1455"
+            endLine="9"
+            endColumn="1116"
+            endOffset="1457"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;GA!&quot; instead of &quot;GA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;GA!&quot;"
+            oldString="GA1"
+            replacement="GA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="1140"
+            startOffset="1479"
+            endLine="9"
+            endColumn="1140"
+            endOffset="1481"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;MAwGA!&quot; instead of &quot;MAwGA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;MAwGA!&quot;"
+            oldString="MAwGA1"
+            replacement="MAwGA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="1221"
+            startOffset="1560"
+            endLine="9"
+            endColumn="1221"
+            endOffset="1565"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;wNfdIjIz!&quot; instead of &quot;wNfdIjIz1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;wNfdIjIz!&quot;"
+            oldString="wNfdIjIz1"
+            replacement="wNfdIjIz!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="1279"
+            startOffset="1618"
+            endLine="9"
+            endColumn="1279"
+            endOffset="1626"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;mtKoOD!&quot; instead of &quot;mtKoOD1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;mtKoOD!&quot;"
+            oldString="mtKoOD1"
+            replacement="mtKoOD!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="352"
+                endOffset="1948"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="9"
+            column="1326"
+            startOffset="1665"
+            endLine="9"
+            endColumn="1326"
+            endOffset="1671"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;ybmlhMRYwFAYDVQQHEw!&quot; instead of &quot;ybmlhMRYwFAYDVQQHEw1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;ybmlhMRYwFAYDVQQHEw!&quot;"
+            oldString="ybmlhMRYwFAYDVQQHEw1"
+            replacement="ybmlhMRYwFAYDVQQHEw!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="108"
+            startOffset="2178"
+            endLine="14"
+            endColumn="108"
+            endOffset="2197"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;GA!&quot; instead of &quot;GA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;GA!&quot;"
+            oldString="GA1"
+            replacement="GA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="180"
+            startOffset="2250"
+            endLine="14"
+            endColumn="180"
+            endOffset="2252"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;GA!&quot; instead of &quot;GA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;GA!&quot;"
+            oldString="GA1"
+            replacement="GA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="204"
+            startOffset="2274"
+            endLine="14"
+            endColumn="204"
+            endOffset="2276"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;ybmlhMRYwFAYDVQQHEw!&quot; instead of &quot;ybmlhMRYwFAYDVQQHEw1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;ybmlhMRYwFAYDVQQHEw!&quot;"
+            oldString="ybmlhMRYwFAYDVQQHEw1"
+            replacement="ybmlhMRYwFAYDVQQHEw!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="308"
+            startOffset="2378"
+            endLine="14"
+            endColumn="308"
+            endOffset="2397"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;GA!&quot; instead of &quot;GA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;GA!&quot;"
+            oldString="GA1"
+            replacement="GA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="380"
+            startOffset="2450"
+            endLine="14"
+            endColumn="380"
+            endOffset="2452"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;GA!&quot; instead of &quot;GA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;GA!&quot;"
+            oldString="GA1"
+            replacement="GA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="404"
+            startOffset="2474"
+            endLine="14"
+            endColumn="404"
+            endOffset="2476"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;sypEwPpt!&quot; instead of &quot;sypEwPpt1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;sypEwPpt!&quot;"
+            oldString="sypEwPpt1"
+            replacement="sypEwPpt!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="498"
+            startOffset="2568"
+            endLine="14"
+            endColumn="498"
+            endOffset="2576"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;idkyugwfYwXFU!&quot; instead of &quot;idkyugwfYwXFU1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;idkyugwfYwXFU!&quot;"
+            oldString="idkyugwfYwXFU1"
+            replacement="idkyugwfYwXFU!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="644"
+            startOffset="2714"
+            endLine="14"
+            endColumn="644"
+            endOffset="2727"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;jMIhF!&quot; instead of &quot;jMIhF1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;jMIhF!&quot;"
+            oldString="jMIhF1"
+            replacement="jMIhF!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="837"
+            startOffset="2907"
+            endLine="14"
+            endColumn="837"
+            endOffset="2912"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;jMIhF!&quot; instead of &quot;jMIhF1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;jMIhF!&quot;"
+            oldString="jMIhF1"
+            replacement="jMIhF!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="885"
+            startOffset="2955"
+            endLine="14"
+            endColumn="885"
+            endOffset="2960"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;MQswCQYDVQQGEwJVUzETMBEGA!&quot; instead of &quot;MQswCQYDVQQGEwJVUzETMBEGA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;MQswCQYDVQQGEwJVUzETMBEGA!&quot;"
+            oldString="MQswCQYDVQQGEwJVUzETMBEGA1"
+            replacement="MQswCQYDVQQGEwJVUzETMBEGA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="917"
+            startOffset="2987"
+            endLine="14"
+            endColumn="917"
+            endOffset="3012"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;pYTEWMBQGA!&quot; instead of &quot;pYTEWMBQGA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;pYTEWMBQGA!&quot;"
+            oldString="pYTEWMBQGA1"
+            replacement="pYTEWMBQGA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="960"
+            startOffset="3030"
+            endLine="14"
+            endColumn="960"
+            endOffset="3040"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;gVmlldzEUMBIGA!&quot; instead of &quot;gVmlldzEUMBIGA1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;gVmlldzEUMBIGA!&quot;"
+            oldString="gVmlldzEUMBIGA1"
+            replacement="gVmlldzEUMBIGA!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="988"
+            startOffset="3058"
+            endLine="14"
+            endColumn="988"
+            endOffset="3072"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;iZBqpknHf!&quot; instead of &quot;iZBqpknHf1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;iZBqpknHf!&quot;"
+            oldString="iZBqpknHf1"
+            replacement="iZBqpknHf!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="1294"
+            startOffset="3364"
+            endLine="14"
+            endColumn="1294"
+            endOffset="3373"/>
+    </incident>
+
+    <incident
+        id="Typos"
+        severity="warning"
+        message="Did you mean &quot;XFI!&quot; instead of &quot;XFI1&quot; ?">
+        <fix-replace
+            description="Replace with &quot;XFI!&quot;"
+            oldString="XFI1"
+            replacement="XFI!">
+            <range
+                file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+                startOffset="2083"
+                endOffset="3543"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/values/font_certs.xml"
+            line="14"
+            column="1337"
+            startOffset="3407"
+            endLine="14"
+            endColumn="1337"
+            endOffset="3410"/>
+    </incident>
+
+    <incident
+        id="SetTextI18n"
+        severity="warning"
+        message="Do not concatenate text displayed with `setText`. Use resource string with placeholders.">
+        <location
+            file="${:app*debug*sourceProvider*0*javaDir*0}/com/tiodev/vegtummy/Adapter/AdapterPopular.java"
+            line="45"
+            column="29"
+            startOffset="1375"
+            endLine="45"
+            endColumn="52"
+            endOffset="1398"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.appcompat:appcompat than 1.4.1 is available: 1.7.0">
+        <fix-replace
+            description="Change to 1.7.0"
+            family="Update versions"
+            oldString="1.4.1"
+            replacement="1.7.0"/>
+        <location
+            file="${:app*projectDir}/build.gradle"
+            line="32"
+            column="20"
+            startOffset="697"
+            endLine="32"
+            endColumn="56"
+            endOffset="733"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of com.google.android.material:material than 1.5.0 is available: 1.12.0">
+        <fix-replace
+            description="Change to 1.12.0"
+            family="Update versions"
+            oldString="1.5.0"
+            replacement="1.12.0"/>
+        <location
+            file="${:app*projectDir}/build.gradle"
+            line="33"
+            column="20"
+            startOffset="754"
+            endLine="33"
+            endColumn="64"
+            endOffset="798"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.constraintlayout:constraintlayout than 2.1.3 is available: 2.2.0">
+        <fix-replace
+            description="Change to 2.2.0"
+            family="Update versions"
+            oldString="2.1.3"
+            replacement="2.2.0"/>
+        <location
+            file="${:app*projectDir}/build.gradle"
+            line="34"
+            column="20"
+            startOffset="819"
+            endLine="34"
+            endColumn="70"
+            endOffset="869"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of com.google.android.gms:play-services-basement than 18.0.1 is available: 18.4.0">
+        <fix-replace
+            description="Change to 18.4.0"
+            family="Update versions"
+            oldString="18.0.1"
+            replacement="18.4.0"/>
+        <location
+            file="${:app*projectDir}/build.gradle"
+            line="35"
+            column="20"
+            startOffset="890"
+            endLine="35"
+            endColumn="74"
+            endOffset="944"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of com.google.android.gms:play-services-auth-base than 18.0.2 is available: 18.0.13">
+        <fix-replace
+            description="Change to 18.0.13"
+            family="Update versions"
+            oldString="18.0.2"
+            replacement="18.0.13"/>
+        <location
+            file="${:app*projectDir}/build.gradle"
+            line="36"
+            column="20"
+            startOffset="965"
+            endLine="36"
+            endColumn="75"
+            endOffset="1020"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.test.ext:junit than 1.1.3 is available: 1.2.1">
+        <fix-replace
+            description="Change to 1.2.1"
+            family="Update versions"
+            oldString="1.1.3"
+            replacement="1.2.1"/>
+        <location
+            file="${:app*projectDir}/build.gradle"
+            line="38"
+            column="31"
+            startOffset="1097"
+            endLine="38"
+            endColumn="62"
+            endOffset="1128"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.test.espresso:espresso-core than 3.4.0 is available: 3.6.1">
+        <fix-replace
+            description="Change to 3.6.1"
+            family="Update versions"
+            oldString="3.4.0"
+            replacement="3.6.1"/>
+        <location
+            file="${:app*projectDir}/build.gradle"
+            line="39"
+            column="31"
+            startOffset="1160"
+            endLine="39"
+            endColumn="75"
+            endOffset="1204"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of com.github.bumptech.glide:glide than 4.13.0 is available: 4.15.1">
+        <fix-replace
+            description="Change to 4.15.1"
+            family="Update versions"
+            oldString="4.13.0"
+            replacement="4.15.1"/>
+        <location
+            file="${:app*projectDir}/build.gradle"
+            line="42"
+            column="20"
+            startOffset="1254"
+            endLine="42"
+            endColumn="60"
+            endOffset="1294"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.room:room-runtime than 2.4.3 is available: 2.6.1">
+        <location
+            file="${:app*projectDir}/build.gradle"
+            line="46"
+            column="20"
+            startOffset="1379"
+            endLine="46"
+            endColumn="62"
+            endOffset="1421"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/back_icon.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/back_icon.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/card_btn.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/card_btn.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/category_dessert.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/category_dessert.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/category_main.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/category_main.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/category_salad.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/category_salad.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/catergory_drinks.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/catergory_drinks.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/clock_icon.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/clock_icon.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/clock_ic_white.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/clock_ic_white.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/developer_ic.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/developer_ic.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/drinks.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/drinks.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/full_size_ic.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/full_size_ic.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/home_assest1.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/home_assest1.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/info_ic.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/info_ic.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/logo_animation.gif` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/logo_animation.gif"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/menu_home.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/menu_home.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/pizza_sample.jpg` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/pizza_sample.jpg"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/scroll_up.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/scroll_up.png"/>
+    </incident>
+
+    <incident
+        id="IconLocation"
+        severity="warning"
+        message="Found bitmap drawable `res/drawable/search_ic.png` in densityless folder">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/search_ic.png"/>
+    </incident>
+
+    <incident
+        id="GifUsage"
+        severity="warning"
+        message="Using the `.gif` format for bitmaps is discouraged">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/drawable/logo_animation.gif"/>
+    </incident>
+
+    <incident
+        id="Overdraw"
+        severity="warning"
+        message="Possible overdraw: Root element paints background `@color/background` with a theme that also paints a background (inferred theme is `@style/Theme.RecyclerView`)">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_main.xml"
+            line="8"
+            column="5"
+            startOffset="376"
+            endLine="8"
+            endColumn="43"
+            endOffset="414"/>
+    </incident>
+
+</incidents>

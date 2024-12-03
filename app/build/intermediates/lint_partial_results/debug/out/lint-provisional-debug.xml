@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.1.2" type="conditional_incidents">
+
+    <incident
+        id="RtlHardcoded"
+        severity="warning"
+        message="Redundant attribute `layout_marginLeft`; already defining `layout_marginStart` with `targetSdkVersion` 31">
+        <fix-attribute
+            description="Delete layout_marginLeft"
+            robot="true"
+            independent="true"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="layout_marginLeft"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="77"
+            column="13"
+            startOffset="3069"
+            endLine="77"
+            endColumn="38"
+            endOffset="3094"/>
+        <map>
+            <entry
+                name="applies"
+                int="18"/>
+        </map>
+    </incident>
+
+    <incident
+        id="RtlHardcoded"
+        severity="warning"
+        message="Redundant attribute `layout_marginLeft`; already defining `layout_marginStart` with `targetSdkVersion` 31">
+        <fix-attribute
+            description="Delete layout_marginLeft"
+            robot="true"
+            independent="true"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="layout_marginLeft"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="95"
+            column="13"
+            startOffset="3797"
+            endLine="95"
+            endColumn="38"
+            endOffset="3822"/>
+        <map>
+            <entry
+                name="applies"
+                int="18"/>
+        </map>
+    </incident>
+
+    <incident
+        id="KeyboardInaccessibleWidget"
+        severity="warning"
+        message="&apos;clickable&apos; attribute found, please also add &apos;focusable&apos;">
+        <fix-attribute
+            description="Set focusable=&quot;true&quot;"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="focusable"
+            value="true"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="208"
+            column="9"
+            startOffset="8096"
+            endLine="208"
+            endColumn="33"
+            endOffset="8120"/>
+        <map>
+            <condition minLT="26"/>
+        </map>
+    </incident>
+
+    <incident
+        id="RtlHardcoded"
+        severity="warning"
+        message="Consider replacing `android:layout_marginRight` with `android:layout_marginEnd=&quot;15dp&quot;` to better support right-to-left layouts">
+        <fix-replace
+            description="Replace with android:layout_marginEnd=&quot;15dp&quot;"
+            oldString="layout_marginRight"
+            replacement="layout_marginEnd"/>
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_recipe.xml"
+            line="222"
+            column="9"
+            startOffset="8603"
+            endLine="222"
+            endColumn="35"
+            endOffset="8629"/>
+        <map>
+            <entry
+                name="applies"
+                int="10"/>
+        </map>
+    </incident>
+
+    <incident
+        id="RtlSymmetry"
+        severity="warning"
+        message="When you define `paddingStart` you should probably also define `paddingEnd` for right-to-left symmetry">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_search.xml"
+            line="22"
+            column="9"
+            startOffset="895"
+            endLine="22"
+            endColumn="29"
+            endOffset="915"/>
+        <map>
+            <entry
+                name="applies"
+                int="2"/>
+        </map>
+    </incident>
+
+    <incident
+        id="RtlSymmetry"
+        severity="warning"
+        message="When you define `paddingStart` you should probably also define `paddingEnd` for right-to-left symmetry">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/bottom_sheet.xml"
+            line="16"
+            column="9"
+            startOffset="666"
+            endLine="16"
+            endColumn="29"
+            endOffset="686"/>
+        <map>
+            <entry
+                name="applies"
+                int="2"/>
+        </map>
+    </incident>
+
+    <incident
+        id="CustomSplashScreen"
+        severity="warning"
+        message="The application should not provide its own launch screen">
+        <location
+            file="${:app*debug*sourceProvider*0*javaDir*0}/com/tiodev/vegtummy/SplashActivity.java"
+            line="12"
+            column="14"
+            startOffset="245"
+            endLine="12"
+            endColumn="28"
+            endOffset="259"/>
+        <map>
+            <condition targetGE="31"/>
+        </map>
+    </incident>
+
+</incidents>
